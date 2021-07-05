@@ -1,6 +1,7 @@
 # KPS Buffer visualization 
 
-This program refers to my ![https://github.com/JekiTheMonkey/JKPS](JKPS), and it shows how the KPS is calculated.
+This program refers to my [https://github.com/JekiTheMonkey/JKPS](JKPS), and it shows how the KPS is calculated.
 
 Demonstration:
+
 ![](demo.gif)
